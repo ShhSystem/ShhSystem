@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Sh_System
+- 🌱 I’m currently learning Js | React | Angular 
+- 💞️ I’m looking to collaborate on M0rti
+- 😄 Pronouns: sssssh , ShProtect , Sh_System , 
